@@ -9,7 +9,28 @@ body {
     border: 2px solid #71808e;
 }
 
+#engine-content {
+    text-align: center;
+}
+#engine-pricing {
+    margin-top: 5%;
+}
+
 .main-header {
     text-align: center;
     padding-top: 1%;
+    margin-bottom: 5%;
+}
+
+.compression-test {
+    margin-left: 65%;
+}
+
+.rounded-image {
+    border-radius: 25px;
+}
+.engine-image {
+    width: 640px;
+    height: 426px;
+
 }
