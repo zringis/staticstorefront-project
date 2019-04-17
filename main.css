@@ -1,0 +1,143 @@
+body {
+    background-color: #595959;
+}
+
+#navbar-example2 {
+    color: white;
+    background-color: #262626;
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.bg-dark {
+    background-color: #262626 !important;
+}
+
+.wrapped-main-content {
+    margin: 45px 100px 30px 100px;
+    padding: 100px;
+    
+}
+
+.contentBox {
+    padding: 100px 100px 30px 100px;
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 8px 8px 6px #262626;
+    margin: 45px 100px 30px 100px;
+}
+
+.navbutton {
+    background-color: transparent !important;
+    color: #fff;
+}
+
+.navbutton:hover {
+    color: #a6a6a6 !important;
+}
+
+.typewrite {
+    color:white;
+    text-align: center;
+    size: 10px;
+}
+
+.typewrite a:hover {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+#introduction {
+    margin-top: 100px;
+    color:white;
+    background-color: transparent;
+    border: transparent;
+    box-shadow: 0px 0 0 transparent !important;
+    background-image: url("assets/code-head.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 8%;
+    padding-bottom: 10%;
+}
+
+#introh1 {
+    text-align: center;
+    
+}
+
+#about {
+    
+    background-color: white;
+
+}
+
+
+
+#projects {
+   background-color: white;
+
+}
+
+.thumbnail img {
+    border: 2px solid lightgray;
+    border-radius: 10px;
+}
+
+.row {
+    margin-left: 0px;
+    text-align: center;
+}
+
+
+#contact {
+    background-color: white;
+
+}
+
+.form-group {
+    width: 100%;
+}
+
+button[type=submit] {
+    align-content: center;
+    color: white;
+    width: 100%;
+    background-color: #4d4d4d;
+    border: #4d4d4d;
+}
+button[type=submit]:hover {
+    background-color: #262626;
+    border: #262626;
+}
+
+h4 {
+    color: #666666;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    align-content: bottom;
+    position: bottom;
+    bottom: 0 !important;
+    margin-bottom: 0px !important;
+}
+
+#footer-links{
+    /*margin-bottom: 0rem !important;*/
+    display: inline-block !important;
+    width: auto;
+}
+
+#footer-linkts table tr td{
+    display: inline-block;
+}
+
+p {
+    margin-bottom: 0px;
+}
