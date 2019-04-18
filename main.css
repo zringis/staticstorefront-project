@@ -40,3 +40,8 @@ body {
     height: 426px;
 
 }
+
+footer {
+    margin-top: 0;
+    text-align: center;
+}
