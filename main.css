@@ -24,6 +24,10 @@ body {
     margin-bottom: 5%;
 }
 
+#cent {
+    text-align: center;
+}
+
 .compression-test {
     margin-left: 65%;
 }
